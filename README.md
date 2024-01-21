@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a network management application.
 
 ### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/sutej-pal/count.svg" alt ="Loading">
 
 
 
