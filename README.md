@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Sutej Pal, currently working as a Senior Full-stack developer at HashStudioz Pvt. Ltd.. 
+I love to learn new stuff, and best practices and to write clean code.
+
 - 🔭 I’m currently working on a network management application.
 - 👯 I’m looking to collaborate on something interesting and open source react projects.
 - 💬 Ask me about React | NodeJs
