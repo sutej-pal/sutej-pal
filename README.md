@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a network management application.
+- 👯 I’m looking to collaborate on something interesting and open source react projects.
+- 💬 Ask me about React | NodeJs
+- 📫 How to reach me: [Github](https://github.com/sutej-pal), [Blog](https://dev.to/sutejpal), [Linkedin](https://www.linkedin.com/in/sutej-pal/)
+- 😄 Pronouns:  He/him
 
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/sutej-pal/count.svg" alt ="Loading">
