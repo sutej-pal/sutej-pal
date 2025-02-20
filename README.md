@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sutej Pal, currently working as a Senior Full-stack developer at HashStudioz Pvt. Ltd.. 
+I am Sutej Pal, currently working as a Sr. Software Engineer at HashStudioz Pvt. Ltd.. 
 I love to learn new stuff, and best practices and to write clean code.
 
 - 🔭 I’m currently working on a network management application.
